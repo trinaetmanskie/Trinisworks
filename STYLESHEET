@@ -1,0 +1,11 @@
+body
+{
+  background-color: #2A9B30;
+ 
+}
+
+[data-tag~="body.forest"]
+body.forest .passage { color: darkgreen; }
+body.forest a { color: white; }
+body.forest a:hover { color: #000000; }
+
